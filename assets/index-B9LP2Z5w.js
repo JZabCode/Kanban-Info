@@ -245,7 +245,7 @@ Error generating stack: `+a.message+`
       <p>
         Veranstaltungen wie die Abiturentlassung kehren jährlich wieder. Einmal definierte Karten mit Unteraufgaben (Checklisten) können als Vorlage gespeichert und im nächsten Jahr wiederverwendet werden. Das sichert Qualität und reduziert die Angst, wichtige Details zu vergessen.
       </p>
-    `},{id:5,title:"Rechtliche Rahmenbedingungen",icon:x.jsx(Bh,{size:32}),colorClass:"rose",bullets:["Datenschutz (DSGVO)","Datenminimierung & Löschkonzepte","Einbindung des Personalrats","Verbot der Leistungsüberwachung"],detailTitle:"Rechtssichere Einführung",detailText:`
+    `},{id:5,title:"Rechtliche Rahmenbedingungen",icon:x.jsx(Bh,{size:32}),colorClass:"rose",bullets:["Datenschutz (DSGVO)","Datenminimierung & Löschkonzepte","Einbindung des Personalrats","Vorsicht bei individueller Leistungsüberwachung"],detailTitle:"Rechtssichere Einführung",detailText:`
       <p class="mb-6 text-lg text-slate-700 leading-relaxed">
         Da Schulen im öffentlichen Dienst agieren, sollten bei der Einführung von digitalen Boards rechtliche Aspekte beachtet werden. Es geht um die Balance zwischen Transparenz und Persönlichkeitsschutz.
       </p>
